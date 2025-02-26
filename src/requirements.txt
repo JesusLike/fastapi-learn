@@ -1,0 +1,6 @@
+# runtime
+fastapi[standard]
+
+# testing
+pylint
+pytest
